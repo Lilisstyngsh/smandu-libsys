@@ -1,1 +1,2 @@
 Sistem Informasi Perpustakaan Berbasis Web
+SMANDU Library System
